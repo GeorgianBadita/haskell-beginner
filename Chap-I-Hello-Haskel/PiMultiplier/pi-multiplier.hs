@@ -1,0 +1,1 @@
+piMultiplier x = pi * x
